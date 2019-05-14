@@ -3,6 +3,6 @@ def sort_array_asc(arr)
 end
 
 
-def sort_array_desc()
+def sort_array_desc
   arr.sort 
 end
